@@ -2,5 +2,6 @@
 
 CEMADEN-RJ · SEDEC-RJ (v03)
 
-- [Apresentação para gestores](index.html)
+- [Apresentação em slides](index.html) (em tela larga; em celular rola em coluna)
+- [Apresentação em rolagem](rolagem.html) (todos os slides em coluna, em qualquer tela)
 - [Mapa interativo](mapa.html)
